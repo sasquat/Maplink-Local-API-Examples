@@ -1,4 +1,4 @@
-namespace Maplink.Api.ClientExamples
+namespace Maplink.Local.Api.Examples
 {
     public static class RouteXmlBodyTemplates
     {

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Maplink.Api.ClientExamples.Wrappers
+namespace Maplink.Local.Api.Examples.Wrappers
 {
     public class HttpResponse
     {

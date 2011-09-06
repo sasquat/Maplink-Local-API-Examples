@@ -1,7 +1,7 @@
 using System.Net;
 using System.Text;
 
-namespace Maplink.Api.ClientExamples.Wrappers
+namespace Maplink.Local.Api.Examples.Wrappers
 {
     public interface IWebRequestBuilder
     {

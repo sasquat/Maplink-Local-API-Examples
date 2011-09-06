@@ -1,7 +1,7 @@
 using System;
-using Maplink.Api.ClientExamples.Wrappers;
+using Maplink.Local.Api.Examples.Wrappers;
 
-namespace Maplink.Api.ClientExamples
+namespace Maplink.Local.Api.Examples
 {
     public class MapRenderExamples
     {

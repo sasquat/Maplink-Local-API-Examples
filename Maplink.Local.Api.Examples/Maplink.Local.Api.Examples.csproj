@@ -8,8 +8,8 @@
     <ProjectGuid>{C925F0D2-D2B5-4AA4-BFA4-8FB4A49EF26E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Maplink.Api.ClientExamples</RootNamespace>
-    <AssemblyName>Maplink.Api.ClientExamples</AssemblyName>
+    <RootNamespace>Maplink.Local.Api.Examples</RootNamespace>
+    <AssemblyName>Maplink.Local.Api.Examples</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

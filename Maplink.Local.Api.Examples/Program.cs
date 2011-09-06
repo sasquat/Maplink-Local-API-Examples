@@ -1,8 +1,8 @@
 ﻿using System;
-using Maplink.Api.ClientExamples.Wrappers;
 using System.Linq;
+using Maplink.Local.Api.Examples.Wrappers;
 
-namespace Maplink.Api.ClientExamples
+namespace Maplink.Local.Api.Examples
 {
     class Program
     {

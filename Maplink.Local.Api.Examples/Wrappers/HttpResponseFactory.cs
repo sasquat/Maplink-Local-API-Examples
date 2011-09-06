@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 
-namespace Maplink.Api.ClientExamples.Wrappers
+namespace Maplink.Local.Api.Examples.Wrappers
 {
     public class HttpResponseFactory : IHttpResponseFactory
     {
