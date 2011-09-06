@@ -9,7 +9,7 @@ namespace Maplink.Local.Api.Examples
         private static readonly FindAddressExamples FindAddressExamples;
         private static readonly RouteExamples RouteExamples;
         private static readonly MapRenderExamples MapRenderExamples;
-        private const string Token = "yxVibnSHz09l20BHc0kpbMstc09ld0Zsf0BHc0kpbMgHc1S8bwZjb0LhaCZjdYUkNJN=";
+        private const string Token = "{seu-token-aqui}";
         private const string AddressFinderUrl = "http://192.168.2.19:8080/MapLinkAPI/AddressFinder";
         private const string RouteUrl = "http://192.168.2.19:8080/MapLinkAPI/Route";
         private const string MapRenderUrl = "http://192.168.2.19:8080/MapLinkAPI/MapRender";
